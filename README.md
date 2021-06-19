@@ -6,8 +6,7 @@ News Reading web application
 
 ### [Live Site](https://alan-news-app.netlify.app/)
 
-![Voice Controlled React News Application]
-<img src="https://i.ibb.co/4ZCRt92/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f616c616e2d7075626c69632d696d616765732f.gif" >
+![Voice Controlled React News Application](https://i.ibb.co/4ZCRt92/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f616c616e2d7075626c69632d696d616765732f.gif)
 
 ## Introduction
 This is a code repository for the corresponding video tutorial. 
